@@ -1,0 +1,131 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aqua;
+}
+
+.title {
+    color: brown;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-style: double;
+}
+
+
+.info {
+    color: red;
+}
+
+.merialdo {
+    color: blue;
+}
+
+.splitleft {
+    height: 100%;
+    width: 35%;
+    position: fixed;
+    z-index: 1;
+    top: 1;
+    overflow-x: hidden;
+    padding-top: 20px;
+    border-style: double;
+    border-color: red;
+    border-width: 6px;
+    border-radius: 5px;
+    padding: 5px;
+    align-items: flex-start;
+    
+
+}
+
+.splitright {
+    height: 100%;
+    width: 55%;
+    position: fixed;
+    z-index: 1;
+    top: 1;
+    overflow-x: hidden;
+    padding-top: 20px;
+    right: 0;
+}
+
+h2 {
+    color: red;
+}
+
+.anno {
+    color: blue;
+}
+
+.title2 {
+    color: red;
+    border-bottom: red;
+    border-width: thick;
+    border-bottom: double;
+}
+
+.title3 {
+    color: red;
+    border-bottom: red;
+    border-width: thick;
+    border-bottom: double;
+}
+
+.title4 {
+    color: blue;
+}
+
+.title5 {
+    color: red;
+    border-bottom: red;
+    border-width: thick;
+    border-bottom: double;
+}
+
+img {
+    width: 50%;
+    height: 50%;
+}
+
+.research {
+    color: red;
+    border-bottom: red;
+    border-width: thick;
+    border-bottom: double;
+}
+
+.ractivities {
+    color: blue;
+}
+
+.cfundings {
+    color: blue;
+}
+
+.sactivity {
+    color: blue;
+}
+
+.publications {
+    color: blue;
+}
+
+.didattica {
+    color: red;
+    border-bottom: red;
+    border-width: thick;
+    border-bottom: double;
+}
+
+.otheract {
+    color: red;
+    border-bottom: red;
+    border-width: thick;
+    border-bottom: double;
+}
+
+.innovation {
+    color: blue;
+}
+
+
+
